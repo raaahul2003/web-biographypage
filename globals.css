@@ -1,0 +1,13 @@
+h1{
+    color: hwb(0 2% 0%);
+    border-bottom: 5px dashed
+  }
+  h2{
+    font-style :inherit
+  
+  }
+  .box{
+    border:10px rgb(147, 33, 33);
+    background:rgb(203, 200, 201);
+    padding:10px;
+  }
